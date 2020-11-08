@@ -1,2 +1,2 @@
-# web pages
+# web-pages
 E 115 web pages
